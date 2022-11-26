@@ -23,7 +23,7 @@ on their own github profiles.
 In order to inspire them, I have prepared my own
 <a href="https://github.com/freebelion/AngularTest">AngularTest</a> project.<br>
 For the explanations of its steps (in Turkish), please
-<a href="freebelion.github.io/AngularTest.html">open this link.</a>
+<a href="https://freebelion.github.io/AngularTest.html">open this link.</a>
 
 For my professional profile, please see my
 <a href="https://www.linkedin.com/in/h%C3%BCrol-aslan-4ba5ab62/">LinkedIn profile</a>
