@@ -21,7 +21,7 @@ They will be presenting and explaining their projects
 on their own github profiles.
 
 In order to inspire them, I have prepared my own
-<a href="https://github.com/freebelion/AngularTest">AngularTest</a> project.<br>
+<a href="https://freebelion.github.io/AngularTest">AngularTest</a> project.<br>
 For the explanations of its steps (in Turkish), please
 <a href="AngularTest.html">open this link.</a>
 
