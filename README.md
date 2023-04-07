@@ -22,7 +22,7 @@ for learners who are taking their first steps.
 
 I have also been producing projects which may help
 those who are learning visual programming.<br />
-Those who want to get started on visual programming
+Those who want to get started with visual programming
 on WPF framework can take a look at
 <a href="https://github.com/freebelion/BST206-2023" class="inline">BST206-2023</a>
 project.
