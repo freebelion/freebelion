@@ -34,7 +34,9 @@ Projelerin geliştirme adımlarıyla ilgili açıklamaları README dosyasına ko
 - Bash skriptler ile Linux veya Powershell ile Windows üzerinde sistem programlamaya
   dair giriş düzeyinde malzemeler için şuraya bakınız:<br>
   <a href="https://sites.google.com/mersin.edu.tr/bts308" class="inline">https://sites.google.com/mersin.edu.tr/bts308</a>
-- 
+- Simio ile iş süreçlerinin modellenmesini anlattığım ders videolarını
+  **@meu-simio** YouTube kanalımda bulabilirsiniz:<br>
+  <a href="https://www.youtube.com/@meu-simio" class="inline">https://www.youtube.com/@meu-simio</a>
 
 For my professional profile, please see my
 <a href="https://www.linkedin.com/in/h%C3%BCrol-aslan-4ba5ab62/">LinkedIn profile</a>
